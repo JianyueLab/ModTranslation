@@ -10,4 +10,5 @@
   2. Depth:HiddenWorl——渊玄：隐藏的世界
       - MCBBS搬运贴：https://www.mcbbs.net/thread-1427730-1-1.html
       - MOD原帖：https://www.curseforge.com/minecraft/mc-mods/depth
-  3. 史前自然
+  3. PrehistoricNature——史前自然
+      - 翻译中
