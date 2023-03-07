@@ -12,7 +12,7 @@
   "block.depth.basalt_tiles_slab": "玄武岩砖瓦台阶",
   "block.depth.basalt_tiles_stairs": "玄武岩砖瓦楼梯",
   "block.depth.darkbricksprismarine": "黑砖海晶石",
-  "block.depth.dungeon_guardian_spawn": "地牢守卫者生成方块"
+  "block.depth.dungeon_guardian_spawn": "地牢守卫者生成方块",
   "block.depth.planitum_block": "铂金块",
   "block.depth.platinum_ore": "铂金矿石",
   "block.depth.portal_block": "传送方块",
@@ -62,5 +62,5 @@
   "item.depth.submarine_item": "§b铂金 潜艇",
   "item.depth.submarine_spawn_egg": "潜艇 刷怪蛋",
   "item.depth.sunken_spawn_egg": "沉没 刷怪蛋",
-  "itemGroup.tabdepth_tab": "渊玄",
+  "itemGroup.tabdepth_tab": "渊玄"
 }
